@@ -1,0 +1,9 @@
+ultralytics>=8.4
+streamlit>=1.50
+pandas
+imageio-ffmpeg
+lap>=0.5.12
+onnx
+onnxslim
+pytest
+roboflow

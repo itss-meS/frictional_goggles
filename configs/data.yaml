@@ -1,0 +1,19 @@
+path: data/camo
+train: images/train
+val: images/val
+names:
+  0: person
+  1: car
+  2: truck
+  3: bus
+  4: motorcycle
+  5: bicycle
+  6: boat
+  7: drone
+  8: soldier_woodland
+  9: soldier_desert
+  10: soldier_urban
+  11: soldier_snow
+  12: vehicle_camo_net
+  13: static_camo_net
+  14: drone_camo

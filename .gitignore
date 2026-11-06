@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+runs/
+weights/*.pt
+weights/*.onnx
+weights/*.engine
+data/hard_negatives/
+data/camo/
+datasets/
+*.pyc
